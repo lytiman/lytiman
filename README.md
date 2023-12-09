@@ -3,7 +3,7 @@
 </a>
 <h1 align="center">Hi 👋, I'm Letera Mengistu</h1>
 <h3 align="center">A passionate web developer from Ethiopia</h3>
-<a href="/"><img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2344027/screenshots/5568384/media/85edf020dad3fa2fa90c63753a8e4313.gif" /></a>
+<img align="right" alt="coding" width="40" src="https://cdn.dribbble.com/users/2344027/screenshots/5568384/media/85edf020dad3fa2fa90c63753a8e4313.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lytiman&label=Profile%20views&color=0e75b6&style=flat" alt="lytiman" /> </p>
 
 - 🌱 I’m currently learning **React**
