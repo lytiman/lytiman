@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Letera Mengistu
 #### Software Engineer
-![Software Engineer](https://pin.it/3DO1y07https://unsplash.com/photos/black-laptop-computer-turned-on-on-table-vpOeXr5wmR4)
+![Software Engineer](Photo by <a href="https://unsplash.com/@jstrippa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">James Harrison</a> on <a href="https://unsplash.com/photos/black-laptop-computer-turned-on-on-table-vpOeXr5wmR4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>   )
 
 👋 Hello! I'm Letera Mengistu, a passionate software engineer with a love for coding and problem-solving. 
 
@@ -9,6 +9,10 @@
 Skills: PYTHON/C++ /JAVA/ REACT / JS / HTML / CSS/TAILWIND/NODE.JS/EXPRESS.JS
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
 
 
 
