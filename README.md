@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Letera Mengistu
 #### Software Engineer
-![Software Engineer](https://pin.it/3DO1y07)
+![Software Engineer](https://pin.it/3DO1y07https://unsplash.com/photos/black-laptop-computer-turned-on-on-table-vpOeXr5wmR4)
 
 👋 Hello! I'm Letera Mengistu, a passionate software engineer with a love for coding and problem-solving. 
 
