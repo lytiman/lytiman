@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm Letera Mengistu
+#### Software Engineer
+![Software Engineer](https://arturssmirnovs.githttps://i.pinimg.com/originals/f0/31/99/f03199b98a655a503b949f62d80ca48c.jpghub.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**lytiman/lytiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello! I'm Letera Mengistu, a passionate software engineer with a love for coding and problem-solving. 
 
-Here are some ideas to get you started:
+💻 I have a strong background in software development and enjoy working on a wide range of projects. My expertise lies in web development, mobile app development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: PYTHON/C++ /JAVA/ REACT / JS / HTML / CSS/TAILWIND/NODE.JS/EXPRESS.JS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
