@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Letera Mengistu
 #### Software Engineer
-![Software Engineer](https://arturssmirnovs.githttps://i.pinimg.com/originals/f0/31/99/f03199b98a655a503b949f62d80ca48c.jpghub.io/github-profile-readme-generator/images/banner.png)
+![Software Engineer](https://pin.it/3DO1y07)
 
 👋 Hello! I'm Letera Mengistu, a passionate software engineer with a love for coding and problem-solving. 
 
