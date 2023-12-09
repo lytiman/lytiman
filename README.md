@@ -1,4 +1,4 @@
-[![MasterHead](https://s3.us-east-1.amazonaws.com/asugv5-assets/archive/uploads/images/main/_featureLarge/FF-code-programing-700X467.jpg)](https://rishavchanda.io)
+[![MasterHead](https://s3.us-east-1.amazonaws.com/asugv5-assets/archive/uploads/images/main/_featureLarge/FF-code-programing-700X467.jpg | width=300)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Letera Mengistu</h1>
 <h3 align="center">A passionate web developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2344027/screenshots/5568384/media/85edf020dad3fa2fa90c63753a8e4313.gif" />
