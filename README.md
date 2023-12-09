@@ -1,5 +1,5 @@
-<a href="https://rishavchanda.io">
-  <img src="https://s3.us-east-1.amazonaws.com/asugv5-assets/archive/uploads/images/main/_featureLarge/FF-code-programing-700X467.jpg" width="600" alt="MasterHead">
+<a href="https://rishavchanda.io" style="display: flex; justify-content: center;">
+  <img src="https://s3.us-east-1.amazonaws.com/asugv5-assets/archive/uploads/images/main/_featureLarge/FF-code-programing-700X467.jpg" align="center" width="600" alt="MasterHead">
 </a>
 <h1 align="center">Hi 👋, I'm Letera Mengistu</h1>
 <h3 align="center">A passionate web developer from Ethiopia</h3>
